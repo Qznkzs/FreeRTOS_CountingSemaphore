@@ -1,2 +1,2 @@
 # Learning
-# This is a repository to recording my learning in programing
+# This is a repository to record a demo of freertos project on countingsemaphore.
